@@ -10,7 +10,14 @@
   - Send me an [<img src="http://animations.fg-a.com/email/aniemail19.gif" width="50px" alt="email"/>](mailto:victorgf2011@gmail.com) at victorgf2011@gmail.com.
   - DM me on [Twitter](https://twitter.com/tortitas_t). <img src="http://www.wonder-tonic.com/geocitiesizer/images/man-farting.gif" width="50px" alt="twitter"/>
 
-<br><br><br><br><br>
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TortitasT&count_private=true&show_icons=true&theme=dracula" />
+</div>
+
+<br><br><br>
+
 <div align="center">
   <img src="http://www.wonder-tonic.com/geocitiesizer/images/laptop-01.gif" width="150px"/>
   <img src="http://www.wonder-tonic.com/geocitiesizer/images/Bill_Gates.gif" width="150px"/>
