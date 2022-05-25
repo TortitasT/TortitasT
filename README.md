@@ -16,15 +16,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TortitasT&count_private=true&show_icons=true&theme=dracula" />
 </div>
 
-<br><br><br>
-
-<div align="center">
-  <img src="http://www.wonder-tonic.com/geocitiesizer/images/laptop-01.gif" width="150px"/>
-  <img src="http://www.wonder-tonic.com/geocitiesizer/images/Bill_Gates.gif" width="150px"/>
-  <br><br><br>
-  
-  <img src="http://www.wonder-tonic.com/geocitiesizer/images/notepad.gif" height="30px" />
-  <img src="http://www.wonder-tonic.com/geocitiesizer/images/noframes.gif" height="30px" />
-  <img src="http://www.wonder-tonic.com/geocitiesizer/images/ns_logo.gif" height="30px" />
-</div>
+<br>
 
