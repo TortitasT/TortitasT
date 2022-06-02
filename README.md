@@ -30,6 +30,3 @@
 <a href="https://steamcommunity.com/id/jejejejejejeg/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
