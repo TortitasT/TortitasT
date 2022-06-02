@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="http://www.wonder-tonic.com/geocitiesizer/images/computer-01.gif" width="150px" />
-  <h1><img src="http://www.wonder-tonic.com/geocitiesizer/images/genie.gif" width="50px"/> Welcome! <img src="http://www.wonder-tonic.com/geocitiesizer/images/genie.gif" width="50px"/></h1>
+  <img src="https://user-images.githubusercontent.com/76071376/171580427-821e89cf-bcba-4866-b1bc-b6cf3d123e6b.png" />
+  <hr>
 </div>
 
-<br><br>
+<br>
+
+- Check out my game on [itch.io](https://tortitas.itch.io/mio-cid-v3) or on [it's repo](https://github.com/TortitasT/Cid-Game)
+
+<br>
 
 <div align="center">
   <div>
