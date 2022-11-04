@@ -6,6 +6,7 @@
 <br>
 
 - Check out my game on [itch.io](https://tortitas.itch.io/mio-cid-v3) or on [it's repo](https://github.com/TortitasT/Cid-Game)
+- Check out my work account [vgarciaf](https://github.com/vgarciaf)
 
 <br>
 
