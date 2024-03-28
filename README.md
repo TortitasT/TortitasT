@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/76071376/171580427-821e89cf-bcba-4866-b1bc-b6cf3d123e6b.png" />
-  <hr>
+  <!--<img src="https://user-images.githubusercontent.com/76071376/171580427-821e89cf-bcba-4866-b1bc-b6cf3d123e6b.png" />-->
+  <img src="https://github.com/TortitasT/TortitasT/assets/76071376/7fba2cb4-fc4f-4aaf-a2db-b7917849a22c" />
 </div>
 
 <br>
 
-- Check out my game on [itch.io](https://tortitas.itch.io/mio-cid-v3) or on [it's repo](https://github.com/TortitasT/Cid-Game)
-- Check out my work account [vgarciaf](https://github.com/vgarciaf)
+- I currently work for [Indra](https://www.indracompany.com/) as a Software Engineer at [Minsait](https://www.minsait.com/en), I specialize in Frontend Development and UX.
+- In my free time, I research new technologies by making side projects. You can find them here on [my git repositories](https://github.com/TortitasT?tab=repositories).
+- I've made some games in the past, you can check them out on [my Itch.io profile](https://tortitas.itch.io).
 
 <br>
 
-<div align="center">
+<div align="left">
   <div>
     <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=TortitasT&count_private=true&show_icons=true&theme=dracula" />
   </div>
@@ -20,15 +21,17 @@
   </div>
 </div>
 
-<br>
-<br>
+## <b>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<div align='left'>
+<a href="https://www.linkedin.com/in/v%C3%ADctor-garc%C3%ADa-fern%C3%A1ndez-a7a669200/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Víctor García-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
-<a href="https://twitter.com/tortitas_t">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="mailto:vgarciaf@hey.com" target="_blank">
+<img src="https://img.shields.io/badge/email:  vgarciaf@hey.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-<a href="https://tortitas.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+
+<a href="https://twitter.com/tortitas_t" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  tortitas-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
-<a href="https://steamcommunity.com/id/jejejejejejeg/">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
+</div>
