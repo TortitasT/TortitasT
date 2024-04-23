@@ -1,7 +1,8 @@
 <div align="center">
   <!--<img src="https://user-images.githubusercontent.com/76071376/171580427-821e89cf-bcba-4866-b1bc-b6cf3d123e6b.png" />-->
+  <!-- <img src="https://github.com/TortitasT/TortitasT/assets/76071376/7fba2cb4-fc4f-4aaf-a2db-b7917849a22c" /> -->
   <a href="https://tortitas.eu" target="_blank">
-    <img src="https://github.com/TortitasT/TortitasT/assets/76071376/7fba2cb4-fc4f-4aaf-a2db-b7917849a22c" />
+    <img src="https://github.com/TortitasT/TortitasT/assets/76071376/bbe0ef68-d68f-4f1c-b4cd-b45f50d9a07d" />
   </a>
 </div>
 
