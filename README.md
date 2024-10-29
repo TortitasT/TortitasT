@@ -8,7 +8,7 @@
 
 <br>
 
-- I currently work for [Indra](https://www.indracompany.com/) as a Software Engineer at [Minsait](https://www.minsait.com/en), I specialize in Frontend Development and UX.
+- I specialize in Frontend Development and UX.
 - In my free time, I research new technologies by making side projects. You can find them here on [my git repositories](https://github.com/TortitasT?tab=repositories).
 - I've made some games in the past, you can check them out on [my Itch.io profile](https://tortitas.itch.io).
 
